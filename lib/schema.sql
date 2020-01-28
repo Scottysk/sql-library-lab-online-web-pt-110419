@@ -1,2 +1,5 @@
 CREATE TABLE Series (
+
+
+
 )
