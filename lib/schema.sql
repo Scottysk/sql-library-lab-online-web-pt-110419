@@ -1,7 +1,7 @@
 CREATE TABLE Series (
   id INTEGER PRIMARY KEY,
   title TEXT,
-  author_id
+  author_id INTEGER
 
 
 )
