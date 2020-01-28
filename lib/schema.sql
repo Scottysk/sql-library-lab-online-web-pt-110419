@@ -1,5 +1,6 @@
 CREATE TABLE Series (
-  id INTEGER PRIMARY KEY
+  id INTEGER PRIMARY KEY,
+  title TEXT
 
 
 )
