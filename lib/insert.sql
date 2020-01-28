@@ -8,3 +8,4 @@ INSERT INTO Books (title, year, series_id) VALUES ("book 4", 1941, 1);
 INSERT INTO Books (title, year, series_id) VALUES ("book 5", 1952, 1);
 INSERT INTO Books (title, year, series_id) VALUES ("book 6", 1972, 1);
 
+(1, "Lady", "Woof Woof", "direwolf", 1, 1)
