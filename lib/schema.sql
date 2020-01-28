@@ -29,3 +29,8 @@ CREATE TABLE Characters (
   motto TEXT,
   author_id INTEGER
 );
+
+CREATE TABLE Authors (
+  id INTEGER PRIMARY KEY,
+  name TEXT
+);
