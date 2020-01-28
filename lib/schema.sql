@@ -4,3 +4,5 @@ CREATE TABLE Series (
   author_id INTEGER,
   subgenre_id INTEGER
 );
+
+CREATE TABLE Subgenre
