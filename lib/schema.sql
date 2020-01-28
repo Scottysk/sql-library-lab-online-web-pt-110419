@@ -5,4 +5,8 @@ CREATE TABLE Series (
   subgenre_id INTEGER
 );
 
-CREATE TABLE Subgenre
+CREATE TABLE Subgenres (
+  id 
+
+
+);
