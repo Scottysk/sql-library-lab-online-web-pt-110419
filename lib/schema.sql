@@ -30,7 +30,7 @@ CREATE TABLE Characters (
   author_id INTEGER
 );
 
-CREATE TABLE Authors (
+CREATE TABLE Character (
   id INTEGER PRIMARY KEY,
   name TEXT
 );
