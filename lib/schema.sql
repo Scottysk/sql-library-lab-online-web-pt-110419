@@ -3,6 +3,4 @@ CREATE TABLE Series (
   title TEXT,
   author_id INTEGER,
   subgenre INTEGER
-
-
-)
+);
