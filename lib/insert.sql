@@ -16,3 +16,6 @@ INSERT INTO characters (name, motto, species, author_id) VALUES ("Frodo Baggins"
 INSERT INTO characters (name, motto, species, author_id) VALUES ("Saruman", "The White Wizard", "Wizard", 1);
 INSERT INTO characters (name, motto, species, author_id) VALUES ("Lurtz", "An Army Worthy of Mordor", "Uruk-hai", 1);
 INSERT INTO characters (name, motto, species, author_id) VALUES ("Shelob", "She likes to feed", "Giant Spider", 1);
+
+INSERT INTO subgenres (name) VALUES ("Fantasy");
+INSERT INTO subgenres (name) VALUES ("Sci-fi");
