@@ -1,1 +1,1 @@
-UPDATE Characters SET species = "Hobbit" WHERE species = "half-giant"; 
+UPDATE Characters SET species = "Togruta" WHERE species = "Hobbit"; 
